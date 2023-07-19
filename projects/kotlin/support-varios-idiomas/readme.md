@@ -1,7 +1,8 @@
 # Support a Varios Idiomas
 Esse projeto tem o objetivo de realizar um desafio para os alunos do curso de Android na DIO
-![Screenshot_20230719_110535](https://github.com/dafonsecajose/study-notes/assets/58943299/90ab61ce-aa84-431a-be62-a26a6787255a | width=100)
+![Screenshot_20230719_110535](https://github.com/dafonsecajose/study-notes/assets/58943299/90ab61ce-aa84-431a-be62-a26a6787255a|width=100px)
 [[https://github.com/dafonsecajose/study-notes/assets/58943299/90ab61ce-aa84-431a-be62-a26a6787255a|width=100px]]
+<img src="https://github.com/dafonsecajose/study-notes/assets/58943299/90ab61ce-aa84-431a-be62-a26a6787255a" width="300">
 
 ## Descrição do desafio
 Criar um valor dentro do string.xml e tonar os textos internacional com vários idiomas
