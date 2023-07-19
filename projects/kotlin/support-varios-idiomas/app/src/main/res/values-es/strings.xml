@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Soporte para múltiples idiomas</string>
+    <string name="titleTxt">Desafío Dio</string>
+    <string name="couseNameTxt">Creación de una aplicación de Android con soporte multilingüe</string>
+    <string name="courseTitleTxt">Curso</string>
+    <string name="describleTitleTxt">Descripción</string>
+    <string name="descriptionTxt">Cree un valor dentro del string.xml y haga que los textos sean internacionales con varios idiomas</string>
+</resources>

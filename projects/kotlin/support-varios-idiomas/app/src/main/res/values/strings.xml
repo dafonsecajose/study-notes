@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Suporte a Varios Idiomas</string>
+    <string name="titleTxt">Desafio Dio</string>
+    <string name="couseNameTxt">Criando um App Android com Suporte a Vários Idiomas</string>
+    <string name="courseTitleTxt">Curso</string>
+    <string name="describleTitleTxt">Descrição</string>
+    <string name="descriptionTxt">Criar um valor dentro do string.xml e tonar os textos internacional com vários idiomas</string>
+</resources>
