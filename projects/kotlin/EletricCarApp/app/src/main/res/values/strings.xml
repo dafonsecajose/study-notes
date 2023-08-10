@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EletricCarApp</string>
+    <string name="st_title">Eletric Car</string>
+    <string name="st_carros">Carros</string>
+    <string name="st_favoritos">Favoritos</string>
+    <string name="st_preco">Preço</string>
+    <string name="st_bateria">Bateria</string>
+    <string name="st_potencia">Potência</string>
+    <string name="st_recarga">Recarga</string>
+    <string name="st_preco_kwh">Preço Kwh</string>
+    <string name="st_km_percorrido">Km Percorrido</string>
+    <string name="st_calcular">Calcular</string>
+    <string name="st_calcular_autonomia">Calcular Autonomia</string>
+    <string name="st_ops_internet_n_o_disponivel">Ops, internet não disponivel</string>
+    <string name="st_response_error">Algo deu errado, por favor tente novamente mais tarde</string>
+    <string name="saved_calc">saved_calc</string>
+</resources>
